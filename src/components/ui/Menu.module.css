@@ -1,0 +1,20 @@
+.Menu {
+  display: flex;
+  justify-content: center;
+
+  padding: 10px 20px;
+  margin-bottom: 20px;
+
+  border-bottom: 1px solid gainsboro;
+}
+
+.Menu a {
+  text-decoration: none;
+  margin-right: 15px;
+}
+.activeLink {
+  color: red;
+  font-weight: 700;
+}
+.link {
+}
